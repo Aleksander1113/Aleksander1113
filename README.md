@@ -1,16 +1,14 @@
-## Hi there 👋
+### Привет!
+<a href="https://t.me/aleksander1113">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-<!--
-**Aleksander1113/Aleksander1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, меня зовут Александр, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [x] Прокачать свой профиль на Github
+* [ ] Пройти курс по Git на Slurm
+* [ ] Создать свой первый проект на Github       
+<!-- TODO-IST:END -->
