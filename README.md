@@ -12,7 +12,7 @@
 
 
 <a href="https://t.me/aleksander1113">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="filter: brightness(150%) hue-rotate(90deg);">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="color: blue;">
 </a>
 
 
